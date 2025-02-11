@@ -1,5 +1,5 @@
 body{
-    background: #326717 url('/img/bg.jpg') center top no-repeat;
+    background: #326717 url("img/bg.jpg") center top no-repeat;
     /* background: antiquewhite url("img/завантаження.png") repeat 50% 0;; */
    font-family: "Arial", sans-serif;
    font-size: 20px;
